@@ -35,9 +35,6 @@ Divide the frame into halves and assign the smaller frame and Rotate the frame u
 
 ## Program:
 
-### Developed By: Ashwath M
-### Register No: 212223230023
-
 ## i) Write the frame as JPG file
 ```
 import cv2
