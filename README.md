@@ -1,3 +1,6 @@
+# Exp:2 Record-Image Acquisition using Web Camera
+## Name: Ashwath M
+## Register number: 212223230023
 
 Aim:
  
